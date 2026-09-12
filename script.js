@@ -10,7 +10,7 @@ Contoh:
 const API_URL = "https://script.google.com/macros/s/XXXXXXXX/exec";
 */
 
-const API_URL = "MASUKKAN_URL_WEB_APP_DISINI";
+const API_URL = "https://script.google.com/macros/s/AKfycbyz1Dau9GWQnOgwG3xGI5cJ1Ih6Di1_EzwdvHQjgaV9KMV_DfRIqZl-94AnwsYpQhbS/exec";
 
 
 /*
